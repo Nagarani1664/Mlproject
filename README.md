@@ -10,7 +10,6 @@ Clean the Data for ML: Clean the data by addressing outliers, removing noise, an
 Pick an Error Metric: Choose an appropriate metric to evaluate your model’s performance. Common metrics include accuracy, precision, recall, F1-score, and mean squared error (MSE).
 Split Your Data: Divide the dataset into training and validation sets. The training set is used to train the model, while the validation set helps assess its generalization ability.
 Train a Model: Select an algorithm (such as linear regression, decision trees, or neural networks) and train it using the training data. Tune hyperparameters to optimize performance.
-We'll be using data from the Olympics, which was originally on Kaggle.
 
 You can download the files we'll use in this project here:
 
