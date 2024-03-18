@@ -14,5 +14,13 @@ We'll be using data from the Olympics, which was originally on Kaggle.
 
 You can download the files we'll use in this project here:
 
+We'll be using data from the Olympics, which was originally on Kaggle.
+"C:\Users\vedha\Downloads\athlete_events (1).csv"
+
+ 
+
+You can download the files we'll use in this project here:
+
 teams.csv - the team-level data that we use in this project.
+athlete_events.csv - this is the original athlete-level data - the team-level data that we use in this project.
 athlete_events.csv - this is the original athlete-level data
